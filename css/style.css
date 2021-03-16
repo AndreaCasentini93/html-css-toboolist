@@ -96,6 +96,10 @@ section>div {
     margin-left: 70px;
 }
 
+h2~div {
+    line-height: 18px;
+}
+
 main>section:first-of-type {
     background-color: white;
     width: 70%;
